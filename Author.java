@@ -8,6 +8,9 @@ public class Author {
     public Author(String text){
         this.text = text;
     }
+    
+    
+    
     public void show(){
         System.out.println("Автор = " + this.text);
     }

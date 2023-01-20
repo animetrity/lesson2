@@ -7,6 +7,8 @@ public class ExecelentPupil extends Pupil{
     }
 
     @Override
+    
+    
     void read() {
         System.out.println("Вмію неперевершено читати");
     }

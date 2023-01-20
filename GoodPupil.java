@@ -8,6 +8,8 @@ public class GoodPupil extends Pupil{
 
     @Override
     void read() {
+    
+    
         System.out.println("Вмію добре читати");
     }
 
